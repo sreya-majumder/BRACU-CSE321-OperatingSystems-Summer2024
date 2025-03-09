@@ -1,0 +1,4 @@
+CSE321 Operating System Section13
+CSE340 Computer Architecture Section9
+CSE460 VLSI Design Section3
+CSE461 IntroductionToRobotics Section2
